@@ -1,4 +1,11 @@
 # Vehicle Transport Management System 
-Vehical Transport Management System to streamline fleet operation. it allows admin users to manage vehicles,assig drivers schedule trips and and track deliveries With the help of Technical skills like Asp.Net C#, HTML,  CSS, JAVASCRIPT,  and database Management System sql. It help reduce manual work and improves transport efficiency. 
+Vehical Transport Management System(VTMS) is designed to streamline fleet operation. it allows admin users to • manage vehicles
+   • assig drivers 
+   • schedule trips
+   • track deliveries.
+This System is developed using technologies such as:
+• Asp.Net C#
+• HTML,  CSS, JAVASCRIPT 
+• Sql(for database management). 
 
-Technical skills- Asp.net C#,CSS,JAVASCRIPT,PYTHON,SQL.
+By utilizing these tools, VTMS improves operational efficiency, reduce manual effort,and help businesses manage their transport  logistics more effectively. 
